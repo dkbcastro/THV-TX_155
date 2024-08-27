@@ -13,10 +13,10 @@ P.S. For future submissions, please be careful with what you write/submit in thi
 
 -Kimver
 '''
-Hello, sir! I'm Kyla and below are some information about myself.
+Hello, sir! I'm Kyla and below are some information about myself. <br>
 
-Full Name: Denise Kyla B. Castro
-Year and Course: 3rd Year - BS Physics
-NIP Lab Affiliation: Instrumentation Physics Lab - VIP
+Full Name: Denise Kyla B. Castro <br>
+Year and Course: 3rd Year - BS Physics <br>
+NIP Lab Affiliation: Instrumentation Physics Lab - VIP <br>
 
-I used MATLAB before but only the basics back in SHS. I also started learning python recently for lab applications and for this course.
+I used MATLAB before but only the basics back in SHS. I also started learning python recently for lab applications and for this course. 
